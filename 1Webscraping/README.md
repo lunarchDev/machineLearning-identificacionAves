@@ -6,5 +6,5 @@
 
   2.1- Una vez finalice y recopilada la informacion en archivos .json guardarlos en la carpeta json-files-dataAves.
 
-3- Descarga de imagenes
+3- Descarga de imagenes.
   node download-imgs.mjs
